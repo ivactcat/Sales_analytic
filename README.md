@@ -22,9 +22,20 @@ Key Columns:
 
 
 # Repository Structure
+GitHub Repository: Includes a .gitignore file to control which files and folders should be uploaded.
+• Folder Structure:
+    o data/: To store data files. 
+        	iowa_liquor_sales_2019.parquet
+    o jupyter/: To store Jupyter Notebook files. 
+        	analytic.ipynb
+        	clean.ipynb
+        	basedate.ipynb
+                   	basedate.ipynb
 
-           
-
+    o data_transformation
+        	categorical_and_numerical_analysis.parquet   
+        	dataset_cleaned.parquet    
+       
 
     • Creating the Virtual Environment:
         1.	Navigate to the project folder.
