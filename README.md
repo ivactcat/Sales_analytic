@@ -24,6 +24,7 @@ Key Columns:
 # Repository Structure
 GitHub Repository: Includes a .gitignore file to control which files and folders should be uploaded.
 • Folder Structure:
+
     o data/: To store data files. 
         	iowa_liquor_sales_2019.parquet
     o jupyter/: To store Jupyter Notebook files. 
