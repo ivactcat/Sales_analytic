@@ -68,7 +68,11 @@ Analyze the dataset for missing values (nulls), summarizing how many nulls exist
 
 
 #   Data Visualization:
-
+Creation of subplots for numeric category columns
+creation of column correlation matrix
+creation of sales evolution chart
+creation of sales scatter map
+study of correlation between different variables.
 
 
 
