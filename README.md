@@ -50,8 +50,20 @@ GitHub Repository: Includes a .gitignore file to control which files and folders
         9.	pip freeze > requirements.txt
 
 #	Data Cleaning:
+Data homogenization:
+Standardize the dataset by cleaning column names (e.g., stripping spaces, converting to lowercase), and ensuring data types are consistent.
 
+Change the format of the date column:
+Convert the date column to a consistent datetime format (e.g., YYYY-MM-DD).
 
+Transform the price_value column:
+Clean the price_value column by removing any non-numeric characters (like $ or ,) and convert it to a numeric data type (float).
+
+Decompose the store_columns column:
+Split the store_columns into multiple separate columns, for example extracting city, store_name.
+
+Null value analysis:
+Analyze the dataset for missing values (nulls), summarizing how many nulls exist in each column and their percentage relative to the dataset.
 
 
 
@@ -59,18 +71,8 @@ GitHub Repository: Includes a .gitignore file to control which files and folders
 
 
 
-#	Data Cleaning:
 
 
-
-#	Handling Missing Values:
-
-
-
-#   Creating Marketing Metrics:
-
-
-#   Data Visualization:
 
 
 # Conclusion
