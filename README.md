@@ -2,7 +2,7 @@ Analysis Sales - Iowa Liquor Dataset
 
 #  Analysis Objective
 
-The objective of this project is to analyze liquor sales across the state of Iowa, uncover consumption trends, identify top-selling products, and understand geographical and seasonal variations in purchasing behavior. The insights can support decision-making for distributors, retailers, analysts, and regulatory agencies.
+The objective of this project is to perform a regional sales analysis, identify consumption trends, and design a structured database by defining and inserting relevant fields to effectively manage liquor sales data.
 
 #  Dataset Description
 
@@ -69,9 +69,13 @@ Analyze the dataset for missing values (nulls), summarizing how many nulls exist
 
 #   Data Visualization:
 Creation of subplots for numeric category columns
+
 creation of column correlation matrix
+
 creation of sales evolution chart
+
 creation of sales scatter map
+
 study of correlation between different variables.
 
 
